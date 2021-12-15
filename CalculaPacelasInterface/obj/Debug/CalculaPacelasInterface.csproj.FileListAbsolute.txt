@@ -1,0 +1,7 @@
+D:\wp_VS\CalculaPacelasInterface\CalculaPacelasInterface\bin\Debug\CalculaPacelasInterface.exe.config
+D:\wp_VS\CalculaPacelasInterface\CalculaPacelasInterface\bin\Debug\CalculaPacelasInterface.exe
+D:\wp_VS\CalculaPacelasInterface\CalculaPacelasInterface\bin\Debug\CalculaPacelasInterface.pdb
+D:\wp_VS\CalculaPacelasInterface\CalculaPacelasInterface\obj\Debug\CalculaPacelasInterface.csproj.AssemblyReference.cache
+D:\wp_VS\CalculaPacelasInterface\CalculaPacelasInterface\obj\Debug\CalculaPacelasInterface.csproj.CoreCompileInputs.cache
+D:\wp_VS\CalculaPacelasInterface\CalculaPacelasInterface\obj\Debug\CalculaPacelasInterface.exe
+D:\wp_VS\CalculaPacelasInterface\CalculaPacelasInterface\obj\Debug\CalculaPacelasInterface.pdb
